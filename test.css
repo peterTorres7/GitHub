@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+   font-size: 1.7em;
+    font-weight: bold;
+    paddg: 30px;
+    
+    
+}
+
+#wrapper {
+    width: 940px;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 20px;
+    backgrnd: #4a3c75;
+    border-radius: 20px;
+}
+
+body {
+    background: black;
+}
+
+
+.first {
+    baund: #8970d4;
+    width: 300px;
+    height: 100px;
+    float: left;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+    
+
+
+.first a:hover, .first a:active, 
+.second a:hover, .third a:hover, 
+.fourth a:hover, .fifth a:hover, 
+.sixth a:hover {font-size: 150%;}
+
+.second {
+    background: green;
+    width: 300px;
+    height: 100px;
+    float: right;
+    margin-left: 20px;
+    borde
+    
+    r-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+
+.third {
+    background: #a18427;
+    width: 300px;
+    height: 100px;
+    float: right;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+    
+}
+
+.fourth {
+    background: #4e8fba;
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+   
+}
+
+.fifth {
+    background: #a668a5;
+    width: 300px;
+    height: 100px;
+    float: right;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sixth {
+    background: tan;
+    width: 300px;
+    height: 100px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    width: 940px;
+    height: 50px;
+    background: black;
+    clear: both;
+    border-radius: 20px;
+}
+
+.fun {
+  width: 100px;
+  height: 50px;
+border-radius: 20px;
+  background: #24272b;
+  position: relative;
+  animation: mymove 25s infinite;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 840px;}
+}
