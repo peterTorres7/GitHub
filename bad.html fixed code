@@ -1,0 +1,43 @@
+<!-- Code Compare! -->
+<!-- version 1.0 -->
+<!-- 3/27/22 -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="stylesheet" type="text/css" href="styles.css"> 
+        <title>Code Compare</title>
+    </head>
+<body style="background: grey">
+    <div style="background: lightgrey; width: 940px; margin: 20px auto; border: 5px solid black; padding: 20px; border-radius: 15px" id="wrapper">
+        <h1 style="text-align: center; background: black; color: white; border-radius: 15px; padding: 5px">Bob's Code Compare</h1>
+<br>
+<h3>Which computer language is best? To learn more, follow the links below.</h3>
+<br>
+        
+<div clhhass="row">
+    
+        <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first"><a href="group1/index.html">Group 1 prefers ...</a></div><br>
+        <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first" class="second"><a href="group3/index.html">Group 3 prefers ...</a></div><br>
+        <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first" class="third"><a href="group2/index.html">Group 2 prefers ...</a><br></div>
+    <br>
+        <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first" class="fourth"><a href="group4/index.html">Group 4 prefers ...</a></div><br>
+    
+    <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first" class="sixth"><a href="group5/index.html">Group 5 prefers ...</a></div><br>
+    
+        <div style="background: tan; width: 250px; padding: 10px; font-size: 1.5em; border: 2px solid blue; border-radius: 15px" class="first" class="fifth"><a href="bob/index.html">Bob prefers ...</a></div>
+        
+    
+     
+</div>
+
+        <footer>
+    <div class="fun"></div>
+    </footer>   
+</div>
+    </body>
+    
+
+    
+</html>
+
+
