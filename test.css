@@ -3,12 +3,10 @@
     padding: 0;
 }
 
-
-
 a {
    font-size: 1.7em;
     font-weight: bold;
-    paddg: 50px;
+    paddg: 30px;
     
     
 }
@@ -22,10 +20,10 @@ a {
     border-radius: 20px;
 	height: 650px;
 }
-
+}
 
 body {
-    background: maroon;
+    background: black;
 }
 
 
